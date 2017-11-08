@@ -33,7 +33,7 @@ output:
 [image4]: ./output/warped_example.jpg
 [image5]: ./output/warped_threshed.jpg
 [image6]: ./misc/rover_turn.jpg
-[image7]: ./misc/travelled.jpg
+[image7]: ./misc/travelled.JPG
 
 ## [Rubric]() Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
