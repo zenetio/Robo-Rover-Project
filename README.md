@@ -148,4 +148,4 @@ The figure below shows the resulting job where we can see the image from Rover p
 * We can also improve the way how the samples are collected. Using the sample location, we can guide the rover direct to the sample, stop the rover, pick the sample and then transfer the control again to the main logic that drives the rover.
 * Another solution to accelerate pick up the rocks could be use a "wall crawler" mode once the rocks are located, most of the time, near the wall.
 
-Here's a [!video [showing this project](https://youtu.be/_4D8uPxcTbU)]
+Here's the [video showing this project.](https://youtu.be/_4D8uPxcTbU)
